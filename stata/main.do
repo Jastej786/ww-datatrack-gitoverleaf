@@ -37,7 +37,7 @@
 
 	* THE SWITCH. 0 = all fieldwork days; 1 = the last 7 days of fieldwork.
 	* Run once with 0, then change it to 1 (step 5 of README.txt).
-	global last_week_only 0
+	global last_week_only 1
 
 **------------------------------------------------------------------------------
 **# 2 Set file paths
