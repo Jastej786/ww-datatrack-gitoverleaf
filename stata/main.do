@@ -52,7 +52,7 @@
 
 	// Nandita
 	if "`c(username)'" == "admin" {
-		global repo "/Users/admin/Desktop/DIL/ww-datatrack-gitoverleaf"
+		global repo "/Users/admin/GitHub/ww-datatrack-gitoverleaf"
 	}
 
 	// YOU: copy the two lines above, with your username and your path
